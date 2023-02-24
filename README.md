@@ -1,7 +1,7 @@
 
 # Deep Learning Model for Emotion Recognition via fMRI-Drived Brain Data
 
-Long Short-Term Memory (LSTM) neural network was applied to fMRI-derived beta-series matrices of dimension ۹۰×۳۷۱۳۰ corresponding to ۹۰ stimuli and ۳۷۱۳۰ gray-matter voxels to predict the normative valence and arousal scores (in ۹-point Likert scale) of affective stimuli. The model also used as a classifier to classify each stimulus responses into two categories: high/low arousal and positive/negative valence.  
+Long Short-Term Memory (LSTM) neural network was applied to fMRI-derived beta-series matrices of dimension 90*37130 corresponding to 90 stimuli and 37130 gray-matter voxels to predict the normative valence and arousal scores (in 9-point Likert scale) of affective stimuli. The model also used as a classifier to classify each stimulus responses into two categories: high/low arousal and positive/negative valence.  
 
 
 ## Long Short-Term Memory (LSTM) Networks 
