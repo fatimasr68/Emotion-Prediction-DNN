@@ -14,6 +14,7 @@ The LSTM model was used to predict the normative valence and arousal scores (in 
 ## Classification
 The LSTM model was also used as a classifier to classify each stimulus responses into two categories: high/low arousal and positive/negative valence. The classification accuracy was evaluated using F1 score, precision and accuracy metrics.
 
+
 ## Conclusion 
 The results of this study suggest that, given sufficient data, deep learning is a viable option for emotion recognition as features can be learned directly from raw data. Specifically, achieves higher average accuracy over subjects compared to other traditional methods.
 
