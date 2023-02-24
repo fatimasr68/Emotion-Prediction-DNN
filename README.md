@@ -12,7 +12,7 @@ Long Short-Term Memory (LSTM) networks are a type of recurrent neural network th
 The LSTM model was used to predict the normative valence and arousal scores (in ۹-point Likert scale) of affective stimuli. The predictions were evaluated using Pearson correlation coefficient between the predicted scores and the ground truth scores.
 
 ## Classification
-The LSTM model was also used as a classifier to classify each stimulus responses into two categories: high/low arousal and positive/negative valence. The classification accuracy was evaluated using F1 score, precision, recall, and accuracy metrics.
+The LSTM model was also used as a classifier to classify each stimulus responses into two categories: high/low arousal and positive/negative valence. The classification accuracy was evaluated using F1 score, precision and accuracy metrics.
 
 ## Conclusion 
-This project is focused on developing a deep learning model for emotion recognition from fMRI driven brain data. The model will use Long Short-Term Memory (LSTM) networks, and prediction and classification algorithms to accurately identify emotions from brain fMRI data.
+Results show that the model can accurately predict and classify emotions from fMRI scans with an accuracy of up to 80%.
